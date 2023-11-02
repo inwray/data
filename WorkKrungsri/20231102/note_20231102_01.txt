@@ -35,3 +35,11 @@ Deep Learning Techniques: Should support deep learning for complex pattern recog
 0: The system lacks support for deep learning techniques, significantly limiting its ability to recognize complex patterns. Its effectiveness in identifying sophisticated fraudulent activities is considerably reduced, relying on more basic or traditional methods of fraud detection.
 
 -------------------------------------------
+RPA Customization
+5: The system offers extensive support for Robotic Process Automation (RPA) customization, allowing users to tailor automation workflows with precision and flexibility. It integrates seamlessly with various RPA tools, facilitating efficient and customized fraud monitoring processes.
+
+3: The system provides basic RPA customization capabilities, enabling users to modify certain aspects of automation workflows. While customization options are available, they may not cover all aspects or offer the depth that more advanced systems provide.
+
+0: The system lacks meaningful support for RPA customization, offering little to no flexibility in modifying automation workflows. Users are confined to predefined automation processes, potentially hindering the system's adaptability and efficiency in fraud monitoring.
+
+-------------------------------------------
